@@ -14,7 +14,7 @@ After you understand how internet and browers work. Start learning about HTML, C
 
 Here are some really good resources to get you started:
 * [Udacity Intro HTML and CSS (Free)](https://www.udacity.com/course/intro-to-html-and-css--ud001)
-* [Udacity Intro HTML and CSS (Free)](https://www.udacity.com/course/intro-to-javascript--ud803)
+* [Udacity Intro JavaScript (Free)](https://www.udacity.com/course/intro-to-javascript--ud803)
 * [Learn Web Development by Mozilla (Free)](https://developer.mozilla.org/en-US/docs/Learn)
 * [FreeCodeCamp (Free)](freecodecamp.org)
 * [Codecademy (Paid but some courses are free)](https://www.codecademy.com)
