@@ -47,7 +47,7 @@ Another really good Full-Stack Nanodegree from Udacity that teaches Python frame
 
 * [Udacity Full-Stack Web Developer Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd0044)
 
-## Roadmap.sh
+## Roadmap.sh
 
 [roadmap.sh](https://roadmap.sh) high influenced and helped me to create this tutorial. You can find more detailed guides there created by professionals. Please make sure to check it out. 
 
