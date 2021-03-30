@@ -49,7 +49,7 @@ Another really good Full-Stack Nanodegree from Udacity that teaches Python frame
 
 ## Roadmap.sh
 
-[roadmap.sh](https://roadmap.sh) high influenced and helped me to create this tutorial. You can find more detailed guides there created by professionals. Please make sure to check it out. 
+[roadmap.sh](https://roadmap.sh) highly influenced and helped me to create this tutorial. You can find more detailed guides there created by professionals. Please make sure to check it out. 
 
 I highly recommend you to check these links
 
