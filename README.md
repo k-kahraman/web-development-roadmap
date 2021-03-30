@@ -39,13 +39,24 @@ You can learn these from Udacity, freeCodeCamp or codecademy.com But there is a 
 
 * [Udacity Full-Stack JavaScript Developer Nanodegree](https://www.udacity.com/course/full-stack-javascript-developer-nanodegree--nd0067)
 
-## Advanced: Full-Stack and Beyond!
+## Advanced: Full-Stack and Beyond!
 
 Now you should be comfortable with both front and back parts of the website. Now it is time for a big project to start writing. Write a fully functional website entirely written by you and learn how to host and publish it. Also learn how scale and maintain it if needed. You can get help from someone to practice teamwork, also working with someone will increase your commitment to the project.
 
 Another really good Full-Stack Nanodegree from Udacity that teaches Python framework. Buy either this one or JavaScript one **don't get both!**
 
 * [Udacity Full-Stack Web Developer Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd0044)
+
+## Useful Sites
+
+Some of the really useful web learning and tutorial sites.
+
+* [Udacity (Free and Paid)](https://www.udacity.com)
+* [FreeCodeCamp (Free)](https://www.freecodecamp.com)
+* [Codecademy (Free and Paid)](https://www.codecademy.com)
+* [Mozilla Web Resources (Free)](https://developer.mozilla.org/en-US/docs/Learn)
+* [W3Schools (Free)](https://www.w3schools.com)
+* [Udemy (Free and Paid)](https://www.udemy.com)
 
 ## Roadmap.sh
 
