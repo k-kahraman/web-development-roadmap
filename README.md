@@ -16,7 +16,7 @@ Here are some really good resources to get you started:
 * [Udacity Intro HTML and CSS (Free)](https://www.udacity.com/course/intro-to-html-and-css--ud001)
 * [Udacity Intro JavaScript (Free)](https://www.udacity.com/course/intro-to-javascript--ud803)
 * [Learn Web Development by Mozilla (Free)](https://developer.mozilla.org/en-US/docs/Learn)
-* [FreeCodeCamp (Free)](freecodecamp.org)
+* [FreeCodeCamp (Free)](https://www.freecodecamp.org)
 * [Codecademy (Paid but some courses are free)](https://www.codecademy.com)
 
 ## Intermediate: Pure JavaScript and Front-End Framework
